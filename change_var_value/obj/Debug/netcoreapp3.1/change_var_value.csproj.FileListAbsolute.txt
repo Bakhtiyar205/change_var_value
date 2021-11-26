@@ -1,0 +1,14 @@
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\bin\Debug\netcoreapp3.1\change_var_value.exe
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\bin\Debug\netcoreapp3.1\change_var_value.deps.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\bin\Debug\netcoreapp3.1\change_var_value.runtimeconfig.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\bin\Debug\netcoreapp3.1\change_var_value.runtimeconfig.dev.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\bin\Debug\netcoreapp3.1\change_var_value.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\bin\Debug\netcoreapp3.1\change_var_value.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.AssemblyInfo.cs
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson5\change_var_value\change_var_value\obj\Debug\netcoreapp3.1\change_var_value.genruntimeconfig.cache
